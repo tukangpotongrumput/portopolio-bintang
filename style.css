@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(16, 31, 71);
+}
+
+img{
+    border: 10px solid black;
+    border-radius: 100px;
+    width: 30%;
+    margin-left: 50px;
+    position: absolute;
+    bottom: 40px;
+}
+
+.teks {
+    
+    color: aliceblue;
+}
+
+h1 {
+    margin-top: 200px;
+    margin-left: 40%;
+
+}
+
+h3 {
+
+    margin-left: 40% ;
+}
+
+.teks a {
+    margin-left: 50rem;
+    color: white;
+    text-decoration: none;
+    border: 1px white;
+    size: 10px;
+}
+
+.teks a svg {
+    height: 100px;
+    width: 100px;
+}
